@@ -1,3 +1,3 @@
-# Git and Github course
+# First Modal Window
 
-Welcome to the Git
+My first Modal Window
