@@ -1,3 +1,3 @@
-# My First Modal Window
+# First Modal Window
 
 My first Modal Window
